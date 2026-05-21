@@ -52,7 +52,7 @@ export default function Home() {
 						</h2>
 						<p className="mt-5 max-w-xl text-base leading-7 text-stone-600 sm:text-lg">
 							Trigger the action below to fetch user data. The interface reflects loading,
-							success, and rate-limited states so the demo feels closer to a real product flow.
+							success, and rate-limited states so the demo feels closer to a real product flow
 						</p>
 
 						<div className="mt-8 grid gap-3 sm:grid-cols-3">
